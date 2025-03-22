@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estou aprendendo python<br>🎯 Goals: Aprender mais linguagens de programação e me consolidar na área da tecnologia</p>
+<p align="left">📚 Atualmente estou aprendendo python<br>🎯 Objetivos: Aprender mais linguagens de programação e me consolidar na área da tecnologia</p>
 
 ###
 

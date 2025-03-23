@@ -6,6 +6,12 @@
 
 ###
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/carlajhenifermorais/carlajhenifermorais/main/gifgithub2.gif" width="640" height="320" alt="GIF">
+</div>
+
+###
+
 <h2 align="left">Sobre mim</h2>
 
 ###

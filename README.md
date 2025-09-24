@@ -6,11 +6,14 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlajhenifermorais/carlajhenifermorais/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlajhenifermorais/carlajhenifermorais/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/carlajhenifermorais/carlajhenifermorais/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/biancaalvess/biancaalvess/output/snake.svg" alt="Snake Animation" />
+</div>
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=biancaalvess&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Visitor Badge" />
+</div>
 
 ###
 <div align="center">

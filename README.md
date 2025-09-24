@@ -6,6 +6,13 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 <div align="center">
     <img src="https://raw.githubusercontent.com/carlajhenifermorais/carlajhenifermorais/main/gifgithub2.gif" width="640" height="320" alt="GIF">
 </div>
@@ -16,7 +23,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estou aprendendo python<br>🎯 Objetivos: Aprender mais linguagens de programação e me consolidar na área da tecnologia</p>
+<p align="left">📚 Atualmente estou aprendendo python, java, html e css<br>🎯 Objetivos: Aprender mais linguagens de programação e me consolidar na área da tecnologia</p>
 
 ###
 
@@ -28,6 +35,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
 </div>
 
 ###

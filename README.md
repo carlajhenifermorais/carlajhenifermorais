@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/biancaalvess/biancaalvess/output/snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/carlajhenifermorais/carlajhenifermorais/output/snake.svg" alt="Snake Animation" />
 </div>
 
 

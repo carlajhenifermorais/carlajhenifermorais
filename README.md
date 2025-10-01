@@ -1,5 +1,14 @@
 <h1 align="center">Olá! Bem-vinda(o) ao meu GitHub! 👋</h1>
-<p align="center">Sou estudante do ensino médio técnico no IFMG, apaixonada por aprender e explorar novas oportunidades. Determinada, curiosa e pronta para desafios! 🚀</p>
+
+<h2 align="left">✨ Destaques</h2>
+
+<ul>
+  <li>🎓 Estudante do Ensino Médio Técnico no IFMG</li>
+  <li>🌍 Participante do <strong>Technovation Girls</strong>, desenvolvendo projeto de impacto social</li>
+  <li>🏆 Reconhecimento na mídia: 3 aparições em programas de TV</li>
+  <li>💡 Apaixonada por aprendizado, desafios e inovação tecnológica</li>
+</ul>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Projetos%20-5-orange?style=for-the-badge" />
@@ -36,7 +45,7 @@
   <img src="https://img.shields.io/badge/React_Native-blue?style=for-the-badge&logo=react&logoColor=white">
 </p>
 
----
+
 
 <h2 align="left">📊 Estatísticas do GitHub</h2>
 
@@ -45,7 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlajhenifermorais&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
----
+
 
 <h2 align="left">📫 Contato e Redes</h2>
 
@@ -57,13 +66,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
-
-<h2 align="left">✨ Sobre mim</h2>
-
-<ul>
-  <li>🎮 Amo tecnologia</li>
-  <li>🌱 Sempre buscando aprender algo novo</li>
-  <li>💡 Motivada por desafios e crescimento pessoal</li>
-</ul>

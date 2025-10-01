@@ -1,42 +1,26 @@
 <h1 align="center">Olá! Bem-vinda(o) ao meu GitHub! 👋</h1>
 <p align="center">Sou estudante do ensino médio técnico no IFMG, apaixonada por aprender e explorar novas oportunidades. Determinada, curiosa e pronta para desafios! 🚀</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/carlajhenifermorais/carlajhenifermorais/main/gifgithub2.gif" width="640" height="320" alt="GIF animado" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=carlajhenifermorais&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Visitor Badge" />
-</div>
-
----
 
 <h2 align="left">💻 Eu codifico em</h2>
 
 <p align="left">
-  <strong>Python:</strong>
-  <img src="https://img.shields.io/badge/Python-80%25-green?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white">
   <br>
-  <strong>Java:</strong>
-  <img src="https://img.shields.io/badge/Java-70%25-orange?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white">
   <br>
-  <strong>HTML5:</strong>
-  <img src="https://img.shields.io/badge/HTML5-85%25-red?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white">
   <br>
-  <strong>CSS3:</strong>
-  <img src="https://img.shields.io/badge/CSS3-80%25-blue?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white">
   <br>
-  <strong>Bootstrap:</strong>
-  <img src="https://img.shields.io/badge/Bootstrap-75%25-purple?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
-  <strong>C:</strong>
-  <img src="https://img.shields.io/badge/C-60%25-lightgrey?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C-lightgrey?style=for-the-badge&logo=c&logoColor=white">
   <br>
-  <strong>MySQL:</strong>
-  <img src="https://img.shields.io/badge/MySQL-70%25-blue?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white">
   <br>
-  <strong>React Native:</strong>
-  <img src="https://img.shields.io/badge/React_Native-65%25-blue?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Native-blue?style=for-the-badge&logo=react&logoColor=white">
 </p>
 
 ---

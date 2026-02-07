@@ -37,8 +37,6 @@
   <img src="https://img.shields.io/badge/C-lightgrey?style=for-the-badge&logo=c&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/React_Native-blue?style=for-the-badge&logo=react&logoColor=white">
 </p>
 
 

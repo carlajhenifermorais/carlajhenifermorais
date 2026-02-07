@@ -2,6 +2,7 @@
 
 <h2 align="left">✨ Destaques</h2>
 
+
 <ul>
   <li>🎓 Estudante do Ensino Médio Técnico no IFMG</li>
   <li>🌍 Participante do <strong>Technovation Girls</strong>, desenvolvendo projeto de impacto social</li>

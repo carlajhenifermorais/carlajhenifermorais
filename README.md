@@ -1,5 +1,5 @@
-<h1 align="center">Olá! Bem-vinda(o) ao meu GitHub! 👋</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FD3DB5&width=435&lines=Olá!;Bem+vindo+ao+meu+GitHub!;)](https://git.io/typing-svg)
 <h2 align="left">✨ Destaques</h2>
 
 <ul>
@@ -17,7 +17,6 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZlMnRodnZyNTYyZHNibTV1ZndpZG8xb2NsZnkyNTduenBlM2FidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zo2CcTD4TR5v2eNY5D/giphy.gif" width="300" alt="Menina com computador em pixel art" />
 </div>
-
 
 
 
@@ -39,6 +38,7 @@
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
+<img src="https://ghchart.rshah.org/409ba5/carlajhenifermorais" alt="Contribution Calendar" width="100%"/>
 
 <h2 align="left">📫 Contato e Redes</h2>
 

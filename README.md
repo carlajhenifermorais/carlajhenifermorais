@@ -2,7 +2,6 @@
 
 <h2 align="left">✨ Destaques</h2>
 
-
 <ul>
   <li>🎓 Estudante do Ensino Médio Técnico no IFMG</li>
   <li>🌍 Participante do <strong>Technovation Girls</strong>, desenvolvendo projeto de impacto social</li>
@@ -39,16 +38,6 @@
   <br>
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
-
-
-
-<h2 align="left">📊 Estatísticas do GitHub</h2>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlajhenifermorais&show_icons=true&theme=radical&v=1)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlajhenifermorais&layout=compact&theme=radical&v=1)
-
-
 
 
 <h2 align="left">📫 Contato e Redes</h2>
